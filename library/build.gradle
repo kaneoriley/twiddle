@@ -18,3 +18,8 @@ android {
         abortOnError false
     }
 }
+
+dependencies {
+    // Support Libraries
+    compile 'com.android.support:support-annotations:23.2.0'
+}
