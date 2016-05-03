@@ -19,6 +19,6 @@ repositories {
 
 ```gradle
 dependencies {
-    compile 'me.oriley:twiddle:0.1'
+    compile 'me.oriley:twiddle:0.1.1'
 }
 ```
